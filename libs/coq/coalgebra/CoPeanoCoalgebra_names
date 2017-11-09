@@ -1,0 +1,17 @@
+1 CoPeanoCoalgebra:rel_image_lift_F_CoPeano_bisimilar_spelled
+2 CoPeanoCoalgebra:F_unique:forall
+3 CoPeanoCoalgebra:CoPeano_unique_with_cons:forall
+4 CoPeanoCoalgebra:CoPeano_unfold_bisim_unique:forall
+5 CoPeanoCoalgebra:w_is_weakly_final:is_weakly_final
+6 CoPeanoCoalgebra:commutativity_CoPeano_unfold
+7 CoPeanoCoalgebra:CoPeano_unfold_unfolded:forall
+8 CoPeanoCoalgebra:maximal_bisimulation_is_maximal:forall
+9 CoPeanoCoalgebra:maximal_bisimulation_is_bisimulation
+10 CoPeanoCoalgebra:maximal_bisimulation_conat_pred_property1
+11 CoPeanoCoalgebra:lift_F_id
+12 CoPeanoCoalgebra:pred_inr_co_S:forall
+13 CoPeanoCoalgebra:pred_inl_co_O:forall
+14 CoPeanoCoalgebra:pred_id:forall
+15 CoPeanoCoalgebra:unfold_conat
+16 CoPeanoCoalgebra:inr_injection:forall
+17 CoPeanoCoalgebra:inl_injection:forall

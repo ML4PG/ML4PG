@@ -1,0 +1,1 @@
+((intro . 1) (case . 2) (simpl . 3) (trivial . 4) (induction . 5) (rewrite . 6) (red . 7) (simpl+trivial . 34) (destruct . 9) ( . 10) (exact . 11) (apply . 12) (assumption . 13) (refine . 14) (- . 15) (reflexivity . 16))

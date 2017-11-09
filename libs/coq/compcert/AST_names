@@ -1,0 +1,14 @@
+1 AST:transform_partial_augment_program_match
+2 AST:transform_program_partial_program
+3 AST:transform_partial_program_succeeds
+4 AST:transform_partial_program_function
+5 AST:transform_partial_program_main
+6 AST:transform_partial_program2_augment
+7 AST:transform_partial_augment_program_main
+8 AST:transform_partial_program2_main
+9 AST:transform_partial_program2_succeeds
+10 AST:transform_partial_program2_variable
+11 AST:transform_partial_program2_function
+12 AST:transform_program_function
+13 AST:typ_eq
+14 AST:typesize_pos

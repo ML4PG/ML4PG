@@ -1,0 +1,5 @@
+1 ZStreamCoalgebra:maximal_bisimulation_is_maximal:forall
+2 ZStreamCoalgebra:maximal_bisimulation_is_bisimulation
+3 ZStreamCoalgebra:lift_F_id
+4 ZStreamCoalgebra:hd_tl_id:forall
+5 ZStreamCoalgebra:unfold_Stream

@@ -1,0 +1,8 @@
+1 WeaklyFinalCoalgebra:rel_image_maximal_bisimulation_inversion
+2 WeaklyFinalCoalgebra:destructor_morphism
+3 WeaklyFinalCoalgebra:destructor_maximum_bisimulation_inversion
+4 WeaklyFinalCoalgebra:destructor_equal_inversion
+5 WeaklyFinalCoalgebra:coconstructor_destructor
+6 WeaklyFinalCoalgebra:F_unfold_morphism_inversion
+7 WeaklyFinalCoalgebra:F_unfold_injectve
+8 WeaklyFinalCoalgebra:ordinary_coinduction:forall
